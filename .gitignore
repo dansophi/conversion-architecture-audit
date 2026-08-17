@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+# Local Agent Skills CLI state
+.agents/
+skills-lock.json
